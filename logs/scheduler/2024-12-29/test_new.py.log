@@ -1,0 +1,22 @@
+[2024-12-29T00:21:45.486+0000] {processor.py:186} INFO - Started process (PID=6178) to work on /opt/airflow/dags/test_new.py
+[2024-12-29T00:21:45.488+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/test_new.py for tasks to queue
+[2024-12-29T00:21:45.491+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.490+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/test_new.py
+[2024-12-29T00:21:45.523+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/test_new.py
+[2024-12-29T00:21:45.807+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.805+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:etl_sales_analysis_test
+[2024-12-29T00:21:45.829+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.828+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:etl_sales_analysis_test
+[2024-12-29T00:21:45.841+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.840+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:etl_sales_analysis_test
+[2024-12-29T00:21:45.860+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.860+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:etl_sales_analysis_test
+[2024-12-29T00:21:45.874+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.874+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:etl_sales_analysis_test
+[2024-12-29T00:21:45.895+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.895+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:etl_sales_analysis_test
+[2024-12-29T00:21:45.908+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.908+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:etl_sales_analysis_test
+[2024-12-29T00:21:45.912+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.911+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:21:45.946+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.946+0000] {dag.py:3262} INFO - Creating ORM DAG for etl_sales_analysis_test
+[2024-12-29T00:21:45.967+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:21:45.967+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-28 00:00:00+00:00, run_after=2024-12-29 00:00:00+00:00
+[2024-12-29T00:21:46.010+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/test_new.py took 0.536 seconds
+[2024-12-29T00:22:16.363+0000] {processor.py:186} INFO - Started process (PID=6247) to work on /opt/airflow/dags/test_new.py
+[2024-12-29T00:22:16.365+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/test_new.py for tasks to queue
+[2024-12-29T00:22:16.367+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:22:16.367+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/test_new.py
+[2024-12-29T00:22:16.393+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/test_new.py
+[2024-12-29T00:22:16.430+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:22:16.430+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:22:16.473+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:22:16.473+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-28 00:00:00+00:00, run_after=2024-12-29 00:00:00+00:00
+[2024-12-29T00:22:16.505+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/test_new.py took 0.152 seconds
