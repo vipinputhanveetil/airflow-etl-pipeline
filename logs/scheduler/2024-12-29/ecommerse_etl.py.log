@@ -404,3 +404,115 @@
 [2024-12-29T00:55:10.888+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:55:10.888+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-12-29T00:55:10.937+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:55:10.936+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
 [2024-12-29T00:55:10.968+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.166 seconds
+[2024-12-29T00:55:42.204+0000] {processor.py:186} INFO - Started process (PID=10393) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:55:42.206+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:55:42.210+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:55:42.209+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:55:42.242+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:55:42.296+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:55:42.295+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:55:42.383+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:55:42.382+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:55:42.428+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.237 seconds
+[2024-12-29T00:56:14.038+0000] {processor.py:186} INFO - Started process (PID=10457) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:56:14.040+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:56:14.042+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:56:14.042+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:56:14.076+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:56:14.125+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:56:14.124+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:56:14.228+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:56:14.227+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:56:14.284+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.258 seconds
+[2024-12-29T00:56:45.888+0000] {processor.py:186} INFO - Started process (PID=10521) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:56:45.889+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:56:45.892+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:56:45.892+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:56:45.917+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:56:45.966+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:56:45.966+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:56:46.042+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:56:46.042+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:56:46.078+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.203 seconds
+[2024-12-29T00:57:17.357+0000] {processor.py:186} INFO - Started process (PID=10584) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:57:17.359+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:57:17.362+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:57:17.361+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:57:17.394+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:57:17.447+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:57:17.447+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:57:17.508+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:57:17.507+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:57:17.547+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.205 seconds
+[2024-12-29T00:57:48.216+0000] {processor.py:186} INFO - Started process (PID=10647) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:57:48.219+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:57:48.222+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:57:48.222+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:57:48.250+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:57:48.294+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:57:48.294+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:57:48.353+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:57:48.352+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:57:48.388+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.185 seconds
+[2024-12-29T00:58:18.576+0000] {processor.py:186} INFO - Started process (PID=10709) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:58:18.578+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:58:18.581+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:58:18.580+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:58:18.621+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:58:18.669+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:58:18.669+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:58:18.729+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:58:18.729+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:58:18.764+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.200 seconds
+[2024-12-29T00:58:49.061+0000] {processor.py:186} INFO - Started process (PID=10773) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:58:49.063+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:58:49.065+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:58:49.065+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:58:49.094+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:58:49.138+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:58:49.138+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:58:49.191+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:58:49.191+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:58:49.222+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.173 seconds
+[2024-12-29T00:59:19.361+0000] {processor.py:186} INFO - Started process (PID=10837) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:59:19.364+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:59:19.371+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:59:19.369+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:59:19.418+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:59:19.491+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:59:19.490+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:59:19.588+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:59:19.587+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:59:19.649+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.312 seconds
+[2024-12-29T00:59:49.802+0000] {processor.py:186} INFO - Started process (PID=10901) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:59:49.804+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T00:59:49.807+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:59:49.806+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:59:49.835+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T00:59:49.882+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:59:49.882+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T00:59:49.940+0000] {logging_mixin.py:190} INFO - [2024-12-29T00:59:49.939+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T00:59:49.980+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.191 seconds
+[2024-12-29T01:00:20.387+0000] {processor.py:186} INFO - Started process (PID=10965) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:00:20.388+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T01:00:20.391+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:00:20.390+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:00:20.416+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:00:20.457+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:00:20.457+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T01:00:20.507+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:00:20.507+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T01:00:20.539+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.164 seconds
+[2024-12-29T01:00:50.603+0000] {processor.py:186} INFO - Started process (PID=11029) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:00:50.605+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T01:00:50.610+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:00:50.609+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:00:50.641+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:00:50.682+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:00:50.681+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T01:00:50.739+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:00:50.738+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T01:00:50.772+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.182 seconds
+[2024-12-29T01:01:20.895+0000] {processor.py:186} INFO - Started process (PID=11093) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:01:20.896+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T01:01:20.899+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:01:20.898+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:01:20.926+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:01:20.961+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:01:20.961+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T01:01:21.007+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:01:21.006+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T01:01:21.040+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.157 seconds
+[2024-12-29T01:01:52.371+0000] {processor.py:186} INFO - Started process (PID=11157) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:01:52.372+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T01:01:52.375+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:01:52.374+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:01:52.401+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:01:52.442+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:01:52.442+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T01:01:52.498+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:01:52.498+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T01:01:52.530+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.172 seconds
+[2024-12-29T01:02:23.230+0000] {processor.py:186} INFO - Started process (PID=11219) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:02:23.232+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T01:02:23.235+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:02:23.234+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:02:23.274+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:02:23.331+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:02:23.331+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T01:02:23.382+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:02:23.381+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T01:02:23.414+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.196 seconds
+[2024-12-29T01:02:53.645+0000] {processor.py:186} INFO - Started process (PID=11282) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:02:53.647+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T01:02:53.649+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:02:53.649+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:02:53.676+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:02:53.728+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:02:53.727+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T01:02:53.783+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:02:53.783+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T01:02:53.819+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.186 seconds
+[2024-12-29T01:03:23.940+0000] {processor.py:186} INFO - Started process (PID=11346) to work on /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:03:23.942+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ecommerse_etl.py for tasks to queue
+[2024-12-29T01:03:23.945+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:03:23.944+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:03:23.973+0000] {processor.py:925} INFO - DAG(s) 'etl_sales_analysis_test' retrieved from /opt/airflow/dags/ecommerse_etl.py
+[2024-12-29T01:03:24.020+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:03:24.020+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-29T01:03:24.079+0000] {logging_mixin.py:190} INFO - [2024-12-29T01:03:24.079+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_sales_analysis_test to 2024-12-29 00:00:00+00:00, run_after=2024-12-30 00:00:00+00:00
+[2024-12-29T01:03:24.116+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ecommerse_etl.py took 0.192 seconds
